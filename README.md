@@ -21,5 +21,5 @@ This notebook applies the ARIMA model for time series forecasting, following the
 ### dataset:
 The dataset includes literacy rate statistics obtained from secondary sources, primarily the <b>Census of India</b>. To maintain consistency with governmental data, the analysis focuses on post-independence literacy figures from 1951 to 2011. As per the latest report by the <b>National Statistical Office (NSO)</b>, India’s average literacy rate stood at 77.7% in 2021.
 
-### toi-article/
-The ARIMA(1,2,2) model predicted India’s literacy rate for 2026 to be 80.9%. This project was submitted on 27th May 2025, and a Times of India article published on 3rd June 2025 reported a matching literacy rate of 80.9% based on a Periodic Labour Force Survey (PLFS)—validating the model’s real-world relevance.
+### news-article/
+The ARIMA(1,2,2) model predicted India’s literacy rate for 2026 to be 80.9%. This project was submitted on 27th May 2025, and multiple news articles published on 3rd June 2025 reported a matching literacy rate of 80.9% based on findings from the Periodic Labour Force Survey (PLFS)—further validating the model’s accuracy and practical applicability.
