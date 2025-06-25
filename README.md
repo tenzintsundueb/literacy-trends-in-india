@@ -1,0 +1,2 @@
+# literacy-trends-in-india
+LITERACY TRENDS IN INDIA: ANALYSIS AND FORECASTING
